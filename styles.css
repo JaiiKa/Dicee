@@ -1,0 +1,31 @@
+body {
+  background-color: #393E46;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #4ECCA3;
+  font-size: 8em;
+  margin: auto;
+  display: inline-block;
+  padding: 50px;
+  font-family: 'Lobster', cursive;
+}
+
+p {
+  color: #4ECCA3;
+  font-size: 3em;
+  font-family: 'Indie Flower', cursive;
+  margin: 5%;
+}
+
+img {
+  margin: 0 5%;
+}
+
+.display-player {
+  display: inline-block;
+  width: 20%;
+  padding: 40px;
+}
